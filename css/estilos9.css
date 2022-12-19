@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+
+body {
+    background-color: #eca;
+}
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 1.5rem;
+    text-align: center;
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+p.latin {
+    font-family: 'Permanent Marker', cursive;
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+p.introducc {
+    text-indent: 3em;
+    margin-left: 30%;
+  margin-right: 30%;
+  font-family: sans-serif;
+  line-height: 200%;
+  text-align: justify;
+}
+
+
+
+p.espanol {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3.5rem;
+    letter-spacing: 1px;
+    text-align: right;
+
+}
+
+cite {
+  text-decoration: underline;
+}
