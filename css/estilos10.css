@@ -1,0 +1,51 @@
+
+@font-face {
+    font-family: 'IM Fell DW Pica';
+    src: url('../fuente/IMFellDWPica-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'IM Fell French Canon';
+    src: url('../fuente/IMFellFrenchCanon-Italic.ttf');
+}
+
+body {
+    background-color: #ab87dbea;
+}
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 1.5rem;
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+p.latin {
+    font-family: 'IM Fell DW Pica', serif;
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+p.introducc {
+    text-indent: 3em;
+    margin-left: 30%;
+  margin-right: 30%;
+  font-family: courier;
+  line-height: 200%;
+  text-align: justify;
+}
+
+
+
+p.espanol {
+    color: white;
+    font-family: 'IM Fell French Canon', serif;
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+    text-align: right;
+
+}
+
+cite {
+  text-decoration: underline;
+}
