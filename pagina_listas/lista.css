@@ -32,15 +32,18 @@ h3 {
     color: white;
         
         }       
-li{
-    font-size: 1.25em;
-}
+
 dl {
     background-color: #F0E7DB;
-    line-height: 150%;
+    
+    border-left:5px solid #DEB887;
 }
 dt {
     
     font-style : small-caps; 
     font-weight: bolder;
+}
+li::first-letter{
+    font-style: italic;
+    font-size: 1.25em;
 }
