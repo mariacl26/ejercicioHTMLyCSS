@@ -1,38 +1,38 @@
-h1 {
-    font-family:sans-serif;
-    color:#0019FF;
-    
-     text-align: left;
-      }
-                
-h2 {
-    font-family:sans-serif;
-    background-color:#DCDCDC;
-    color: #048204;
-
-        }       
-a {
-    font-family:sans-serif;
-    color:#0019FF;
-    font-size:large;
-     text-align: left;
-
-        }    
+body {
+  font-family: candara, sans-serif;
+  margin: auto;
+  width: 60%;
+  border: 1px solid brown;
+  padding: 15px 0;
+}
 abbr{
     font-family:sans-serif;
     color:#87ADF1;
 }   
-
-  body{
-    border:3px solid #993333 ;
-    margin-left: auto;
-    margin-right: auto;
-    width: 60%;
-    padding-left: 1em;
-  }
-  h4 {
-    color: red;
+p.etimología {
+  background-color: gainsboro;
+  color: green;
 }
+abbr {
+color:cornflowerblue
+}
+a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+  }
+strong{
+  color: blue;
+  font-size:1.25em;
+}
+.subrayado {
+   text-decoration: underline
+}
+.rojo {
+font-weight: bold;
+color: red;
+}
+
 
 
 

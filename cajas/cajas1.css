@@ -1,0 +1,56 @@
+body {
+    background-color: #D3D3D3;
+  }
+  h1{
+    font-family: sans-serif;
+    text-align: center; 
+    text-transform: uppercase;
+    color:#808085;
+    text-align: center;
+  }
+ 
+    blockquote {
+    font-family: verdana;
+    font-size: 1.25em;
+    }
+    P {
+        text-align: center;
+    }
+    
+    cite { 
+        font-family: "informal roman", "times new roman", serif;
+        font-size: 1.5em;
+    }
+    div {
+    margin: 20px;
+    padding: 10px;
+    }
+    div.cita1 {
+    border-style: dashed;
+    border-color: #32403f;
+    background-color: #c6fffa;
+    color: #32403f;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+  
+  div.cita2 {
+    border: 5px solid #990066;
+    background-color: #ff99ff;
+    color:#660066;
+    margin-right: 50%;
+    }
+
+    div.cita3 {
+    border:15px outset blue;
+    background-color:#e0edf3;
+    color: #0000cc;
+    margin-left: 50%
+    }
+
+    div.cita4 {
+    border: 12px dotted #ff3399;
+    background-color: #663366;
+    color:white;
+    margin-left: 50%;
+    }
