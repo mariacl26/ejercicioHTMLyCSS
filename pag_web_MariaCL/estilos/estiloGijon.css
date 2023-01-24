@@ -128,7 +128,16 @@
     p {
         text-align: justify;
     }
+    .enlace{
+    
+        text-align: justify, center;
+        font-size: medium;
+        background-color: #ff0457;
+        color: white;
+    }
     
     .index{
-        background-color: #eec3cb;
+        background-color: #ecc6cd;
+        font-size: 1.25rem;
+
     }
