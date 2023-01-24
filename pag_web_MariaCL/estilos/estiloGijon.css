@@ -99,3 +99,36 @@
     font-size:85%;
     text-align:center;
     }
+/*ESTILO RTEXTO MARCADO*/
+    body {
+    background-color: whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+
+    h1 {
+        font-size: 3rem;
+        color: #b32020;
+        text-align: center;
+        text-decoration: underline;
+        text-transform: uppercase;
+    }
+    
+    h2 {
+        background-color:#b4253d;
+        font-size: 2rem;
+    }
+    
+    h3 {
+        background-color: #eb7391;
+        color: white;
+        font-size: 1.5rem;
+    }
+    
+    p {
+        text-align: justify;
+    }
+    
+    .index{
+        background-color: #eec3cb;
+    }
