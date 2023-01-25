@@ -1,104 +1,4 @@
-/*ESTILO TABLA*/
 
-.tempAlta {
-    background:#FF2800;
-    font-family: Arial, Helvetica, sans-serif;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .tempMuyAlta {
-    background:#ff0000;
-    font-family: Arial, Helvetica, sans-serif;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .tempBaja {
-     background:#35c7cc;        
-     font-family: Arial, Helvetica, sans-serif;
-     color:#000000;
-     font-size:85%;
-     text-align:center;
-    }
-    .tempFria {
-     background:#1471bd;
-     font-family: Arial, Helvetica, sans-serif;
-     color:#000000;
-     font-size:85%;
-     text-align:center;
-    }
-    .tempMediaB {
-    background:#FFCC66;
-    font-family: Arial, Helvetica, sans-serif;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .tempMediaA {
-    background:#f56e38;
-    font-family: Arial, Helvetica, sans-serif;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .estilo{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:medium;
-    }
-    .muchaLluvia{
-    border-left-width:medium; 
-    background:#5353f8;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .pocaLluvia{
-    border-left-width:medium; 
-    background:#539bf8;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .lluvia{
-    border-left-width:medium; 
-    background:#2b959c;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .diaPrecM{
-    background:#1f65e6;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-
-    .diaPrecB{
-    background:#9be9c8;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-
-    .horaMuchoSol{
-    background:#c2b256;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .horaMuchoSolMax{
-    background:#dfbe08;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
-    .horaPocoSol{
-    background:#d4d89e;
-    color:#000000;
-    font-size:85%;
-    text-align:center;
-    }
 /*ESTILO RTEXTO MARCADO*/
     body {
     background-color: whitesmoke;
@@ -116,6 +16,7 @@
     
     h2 {
         background-color:#b4253d;
+        color: #c9acac;
         font-size: 2rem;
     }
     
@@ -127,6 +28,7 @@
     
     p {
         text-align: justify;
+       
     }
     .enlace{
     
@@ -140,4 +42,31 @@
         background-color: #ecc6cd;
         font-size: 1.25rem;
 
+    }
+
+    address {
+        font-size: 1rem;
+        text-align: center;
+    }
+    .hueco{
+        text-indent: 3em;
+    }
+   
+    a:hover
+    {
+        background-color: #ffcc5c;
+        border:white 2px solid;
+        color: #ff6f69;
+        text-align: center;
+    }
+    strong{
+        color: #823FEE;
+    }
+    img{
+        display: block;
+        margin: auto;
+        border-top: 5px #b32020 dashed;
+        border-bottom: 5px #b32020 dashed;
+        border-left: 5px #b32020 dashed;
+        border-right: 5px #b32020 dashed;
     }
