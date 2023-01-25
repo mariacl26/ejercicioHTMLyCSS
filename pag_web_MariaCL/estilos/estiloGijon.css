@@ -3,7 +3,7 @@
     body {
     background-color: whitesmoke;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    margin: 5%;
     }
 
     h1 {
@@ -69,4 +69,8 @@
         border-bottom: 5px #b32020 dashed;
         border-left: 5px #b32020 dashed;
         border-right: 5px #b32020 dashed;
+    }
+
+    .sub {
+        background-color: lightblue; 
     }
