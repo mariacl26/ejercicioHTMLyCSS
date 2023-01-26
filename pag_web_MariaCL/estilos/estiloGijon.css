@@ -2,12 +2,13 @@
 /*ESTILO RTEXTO MARCADO*/
     body {
     background-color: whitesmoke;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 5%;
     background-image: url('../img/fond2.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size:contain;
+    font-size: 1.25em;
     }
 
     h1 {
@@ -41,11 +42,18 @@
         background-color: #ff0457;
         color: white;
     }
+    .enlace2{
+    
+        text-align: justify, center;
+        font-size: medium;
+        background-color: #0a2650;
+        color: #eef080;
+    }
     
     .index{
         background-color: #ffa4c1;
         font-size: 1.25rem;
-        margin-right: 80%;
+        margin-right: 70%;
 
     }
 
@@ -74,8 +82,16 @@
         border-bottom: 5px #b32020 dashed;
         border-left: 5px #b32020 dashed;
         border-right: 5px #b32020 dashed;
+        border-radius: 5%;
     }
 
     .sub {
-        background-color: rgb(230, 173, 208); 
+        background-color:#ffcc5c;; 
     }
+    .flotante{
+        margin-right: 20px;    
+    }
+    .flotanteIzq{
+        margin-left: 20px;    
+    }
+    
