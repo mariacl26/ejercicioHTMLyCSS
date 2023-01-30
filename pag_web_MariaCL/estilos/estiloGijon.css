@@ -160,4 +160,9 @@
         padding: 0;
     }
         
-   
+   .header{
+    background-image:  url('../img/dibujo.jpg');
+    background-repeat: no-repeat;
+      
+    
+}
