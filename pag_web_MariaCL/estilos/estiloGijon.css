@@ -102,4 +102,10 @@
         margin: auto;
         width: 20%;
     }
-    
+    .zoom {
+        transition: transform .2s; 
+    }
+     
+    .zoom:hover {
+        transform: scale(1.5); 
+    }
