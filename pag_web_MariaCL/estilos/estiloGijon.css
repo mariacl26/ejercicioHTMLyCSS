@@ -13,20 +13,20 @@
 
     h1 {
         font-size: 3rem;
-        color: #b32020;
+        color: #c51919;
         text-align: center;
         text-decoration: underline;
         text-transform: uppercase;
     }
     
     h2 {
-        background-color:#b4253d;
-        color: #c9acac;
+        background-color:#a0172d;
+        color: #ffffff;
         font-size: 2rem;
     }
     
     h3 {
-        background-color: #eb7391;
+        background-color: #aa2626;
         color: white;
         font-size: 1.5rem;
     }
@@ -51,7 +51,7 @@
     }
     
     .indice{
-        background-color: #ffa4c1cb;
+        background-color: #fd8b8bcb;
         font-size: 1.25rem;
         margin-right: 70%;
 
@@ -73,15 +73,15 @@
         text-align: center;
     }
     strong{
-        color: #72287c;
+        color: #7c282f;
     }
     img{
         display: block;
         margin: auto;
-        border-top: 5px #b32020 dashed;
-        border-bottom: 5px #b32020 dashed;
-        border-left: 5px #b32020 dashed;
-        border-right: 5px #b32020 dashed;
+        border-top: 5px #b61d1d dashed;
+        border-bottom: 5px #b61d1d dashed;
+        border-left: 5px #b61d1d dashed;
+        border-right: 5px #b61d1d dashed;
         border-radius: 5%;
     }
 
@@ -95,7 +95,7 @@
         margin-left: 20px;    
     }
     a{
-        color: #72287c;
+        color: #2a6b5d;
         
     }
     table{
@@ -118,11 +118,12 @@
     }
     .index {
         background-color: #f5dce9;
-        color: #ff0457;
+        color: #ff0426;
         padding: 16px;
         font-size: 16px;
         border: none;
         cursor: pointer;
+        font-size: 0.9em;
     }
     
     .indexAbajo {
@@ -133,7 +134,7 @@
     .indexAbajo-content {
         display: none;
         position: absolute;
-        background-color: #f3aebd;
+        background-color: #ee9f9f;
         min-width: 160px;
         box-shadow: 0px 8px 16px 0px #810a24fb;
     }
@@ -152,7 +153,7 @@
     }
     
     .indexAbajo:hover .index {
-        background-color: #e4948a;
+        background-color: #e78383;
     }
     ul {
         list-style-type: none;
@@ -163,6 +164,51 @@
    .header{
     background-image:  url('../img/dibujo.jpg');
     background-repeat: no-repeat;
-      
-    
-}
+    }
+
+    .caja {
+        float: right;
+        width: 34em; 
+        border: #ee445b 5px solid; 
+        margin: 10px; 
+        background-color: #e28a8a;
+        border-top: #ee445b 5px solid;
+        
+        }
+     .caja h3 {
+            background-color: #fb2d37;
+            color: rgb(255, 255, 255); 
+            text-align: center;
+            }
+        .texto {
+            width: 30em; 
+            background-color:  #e28a8a;
+            border:  #ee445b ;       
+            margin: 5px; 
+                }
+         div.texto p{
+            padding-left: 3px;
+            background-color:  #e28a8a;
+                   
+                }
+                .cajaB {
+                    width: 34em; 
+                    border: #ee445b 5px solid; 
+                    margin: 10px; 
+                    background-color: #e28a8a;
+                    border-top: #ee445b 5px solid;
+                    
+                    }
+         .cajaB h3 {
+            background-color: #fb2d37;
+            color: rgb(255, 255, 255); 
+            text-align: center;
+                    }
+        .cajaFoto {
+        margin: 15mm;
+        border-top:0ch;
+        border-bottom: 0ch;
+        border-left: 0ch;
+        border-right: 0ch;
+        border-radius: 0ch;
+    }
