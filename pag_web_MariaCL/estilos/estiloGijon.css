@@ -195,7 +195,6 @@ ul {
     text-align: center;
 }
 
-
 .cajaB {
     width: 34em;
     border: #e27080 5px solid;
@@ -209,13 +208,4 @@ ul {
     background-color: #fb2d37;
     color: #ffffff;
     text-align: center;
-}
-
-.cajaFoto {
-    margin: 15mm;
-    border-top: 0ch;
-    border-bottom: 0ch;
-    border-left: 0ch;
-    border-right: 0ch;
-    border-radius: 0ch;
 }
